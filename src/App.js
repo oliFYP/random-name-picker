@@ -38,6 +38,13 @@ function App() {
   };
 
   return (
+    
+    
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"></meta>
+  </head>
     <div className="App">
       <h1>Spinning Wheel App</h1>
       <div className="input-section">
@@ -69,6 +76,7 @@ function App() {
       </div>
       {winner && <div className="winner">Winner: {winner}</div>}
     </div>
+    </html>
   );
 }
 
