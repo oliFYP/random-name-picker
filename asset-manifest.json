@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-name-picker/static/css/main.2167ce11.css",
+    "main.js": "/random-name-picker/static/js/main.18edc887.js",
+    "static/js/787.264d9aff.chunk.js": "/random-name-picker/static/js/787.264d9aff.chunk.js",
+    "index.html": "/random-name-picker/index.html",
+    "main.2167ce11.css.map": "/random-name-picker/static/css/main.2167ce11.css.map",
+    "main.18edc887.js.map": "/random-name-picker/static/js/main.18edc887.js.map",
+    "787.264d9aff.chunk.js.map": "/random-name-picker/static/js/787.264d9aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2167ce11.css",
+    "static/js/main.18edc887.js"
+  ]
+}
