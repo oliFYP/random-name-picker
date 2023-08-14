@@ -46,7 +46,7 @@ function App() {
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"></meta>
   </head>
     <div className="App">
-      <h1>Spinning Wheel App</h1>
+      <h1>Who is doing restock</h1>
       <div className="input-section">
         <input
           type="text"
